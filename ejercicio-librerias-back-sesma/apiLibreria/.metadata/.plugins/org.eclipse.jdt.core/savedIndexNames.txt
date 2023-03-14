@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/alumno01/sesma/integracionlibrerias/lib practica/ejercicio-librerias-back-sesma/apiLibreria/.metadata/.plugins/org.eclipse.jdt.core
+2480166707.index
+1865797976.index
+992163071.index
